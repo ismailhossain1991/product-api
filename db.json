@@ -1,0 +1,103 @@
+{
+    "devs"  : [
+        {
+            "id"        : 1,
+            "name"      : "Asraful Haque",
+            "age"       : 15,
+            "skill"     : "PHP Developer",
+            "location"  : "Mirpur",
+            "photo"     : "https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zTKJhCo6iVMAX-mZwgp&_nc_ht=scontent.fdac5-1.fna&oh=00_AT-KmiXHX-EvbNjv_CCbEs2q-GBiin3lq7XAMWlrqIVXbQ&oe=621093D4",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 2,
+            "name"      : "Ismail Hossain",
+            "age"       : 14,
+            "skill"     : "Javascript Developer",
+            "location"  : "Rajshahi",
+            "photo"     : "https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/264286252_1305030339918897_4943995571496746377_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=hLbXL_dVIt0AX-q0tg2&_nc_ht=scontent.fdac5-1.fna&oh=00_AT8HjR02WwtCxQRn3cC3OSW8kKqFhoI8FfSjtqai4R-mdQ&oe=62105929",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 3,
+            "name"      : "Jillur Rahman",
+            "age"       : 17,
+            "skill"     : "WordPress Developer",
+            "location"  : "Uttora",
+            "photo"     : "https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/74839818_1639091939549496_6489003969967292416_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=19026a&_nc_ohc=oka3D8yhcpAAX9p8B5u&_nc_ht=scontent.fdac5-2.fna&oh=00_AT_82vUWt3RZpLZvyEExkFP3y8MBU-SsY4eKOP_UeTmO0g&oe=6232B028",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        
+        {
+            "id"        : 4,
+            "name"      : "Maruful Haque",
+            "age"       : 18,
+            "skill"     : "MERN Developer",
+            "location"  : "Mirpur",
+            "photo"     : "https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/267341011_1627076294312194_2410628798404404843_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=49LQzFL6JDkAX8MKxLh&_nc_ht=scontent.fdac5-1.fna&oh=00_AT89wXCMZGDrZyeT-vcGN8Oy8hl5c3J97zRM6RseINqEiw&oe=620FE1C3",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 5,
+            "name"      : "Abu Bakkar Siddik Rana",
+            "age"       : 20,
+            "skill"     : "WordPress Developer",
+            "location"  : "Dinajpur",
+            "photo"     : "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/221252374_2936086546659609_1452364247567098970_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=xaBFrwqCZ-MAX9T_aMy&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8dZ1d0qvi-XuapcU2tpciNH4V_N-wwFQ-1IRBPShxKpw&oe=620FB23E",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 6,
+            "name"      : "Mosarof",
+            "age"       : 18,
+            "skill"     : "Laravel Developer",
+            "location"  : "Rongpur",
+            "photo"     : "https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/97501989_2618867458355374_2729479792809213952_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=TYoyvtq9SNwAX9PJIUZ&tn=DYzXh48LICtQrDYf&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-GBEvn0IOUVlW6LFWFJ9WDUsQ3_d-0e_gHTtE9obAMJg&oe=623035FE",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 7,
+            "name"      : "Robiul Jack",
+            "age"       : 28,
+            "skill"     : "Dango Developer",
+            "location"  : "Mirpur",
+            "photo"     : "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 8,
+            "name"      :  "Silva",
+            "age"       :  36,
+            "skill"     : "PHP Developer",
+            "location"  : "Jamalpur",
+            "photo"     : "https://image.shutterstock.com/image-photo/casually-handsome-confident-young-man-260nw-439433326.jpg",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 9,
+            "name"      :  "Jamis",
+            "age"       :  25,
+            "skill"     : "MERN Developer",
+            "location"  : "Rohanpur",
+            "photo"     : "https://us.123rf.com/450wm/rido/rido1907/rido190700122/127284879-portrait-of-handsome-young-man-in-casual-denim-shirt-keeping-arms-crossed-and-smiling-while-standing.jpg?ver=6",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 10,
+            "name"      :  "Jonas",
+            "age"       :  45,
+            "skill"     : "Javascript Developer",
+            "location"  : "Jamalpur",
+            "photo"     : "https://i.guim.co.uk/img/media/ba21a66c045f16bccb587c812cc19fb2269d9ecd/0_1660_3489_2094/master/3489.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=b60b3443af3cea45e9e17f90e44d3a6a",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        }
+    ]
+
+}
+        
+        
+
+                
+        
+        
+     
